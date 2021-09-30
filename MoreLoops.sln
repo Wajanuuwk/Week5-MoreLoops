@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreLoops", "MoreLoops\MoreLoops.csproj", "{17819172-3215-42BE-A5FB-4E3718ACFA5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessingGameInfinite", "GuessingGameInfinite\GuessingGameInfinite.csproj", "{32580D05-B836-4A48-8A38-F58B9E4ABE05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessingGameThreeTries", "GuessingGameThreeTries\GuessingGameThreeTries.csproj", "{5EDB0244-9CE3-40DF-8D26-F1F01FD0DA54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoops", "ForLoops\ForLoops.csproj", "{554C9916-0589-42DF-8771-4D81C938D0ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneToHundred", "OneToHundred\OneToHundred.csproj", "{7825AEA8-CBAF-4DDD-A66D-95FC5D9FC1CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HundredToOne", "HundredToOne\HundredToOne.csproj", "{F43EA09D-A9E3-4CCC-81AB-58786D384522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveLittleDucks", "FiveLittleDucks\FiveLittleDucks.csproj", "{36417B06-0AF7-46DD-BBED-EF3964B78F6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17819172-3215-42BE-A5FB-4E3718ACFA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17819172-3215-42BE-A5FB-4E3718ACFA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17819172-3215-42BE-A5FB-4E3718ACFA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17819172-3215-42BE-A5FB-4E3718ACFA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32580D05-B836-4A48-8A38-F58B9E4ABE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32580D05-B836-4A48-8A38-F58B9E4ABE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32580D05-B836-4A48-8A38-F58B9E4ABE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32580D05-B836-4A48-8A38-F58B9E4ABE05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EDB0244-9CE3-40DF-8D26-F1F01FD0DA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDB0244-9CE3-40DF-8D26-F1F01FD0DA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDB0244-9CE3-40DF-8D26-F1F01FD0DA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDB0244-9CE3-40DF-8D26-F1F01FD0DA54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{554C9916-0589-42DF-8771-4D81C938D0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{554C9916-0589-42DF-8771-4D81C938D0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{554C9916-0589-42DF-8771-4D81C938D0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554C9916-0589-42DF-8771-4D81C938D0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7825AEA8-CBAF-4DDD-A66D-95FC5D9FC1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7825AEA8-CBAF-4DDD-A66D-95FC5D9FC1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7825AEA8-CBAF-4DDD-A66D-95FC5D9FC1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7825AEA8-CBAF-4DDD-A66D-95FC5D9FC1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43EA09D-A9E3-4CCC-81AB-58786D384522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43EA09D-A9E3-4CCC-81AB-58786D384522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43EA09D-A9E3-4CCC-81AB-58786D384522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43EA09D-A9E3-4CCC-81AB-58786D384522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36417B06-0AF7-46DD-BBED-EF3964B78F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36417B06-0AF7-46DD-BBED-EF3964B78F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36417B06-0AF7-46DD-BBED-EF3964B78F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36417B06-0AF7-46DD-BBED-EF3964B78F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30435F42-FC72-4267-94DE-338691975ACE}
+	EndGlobalSection
+EndGlobal
